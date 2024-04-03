@@ -18,3 +18,6 @@ You place the yaml file in the dataset config folder, found in the yolo program 
 
 ## Will there be any updates?
 If there will be any issues, yes. But I won't be very active when it comes to adding new stuff to the dataset creator.
+
+## Can I use it in my own program?
+Yes, you can do whatever you want with it, but you must credit me.
