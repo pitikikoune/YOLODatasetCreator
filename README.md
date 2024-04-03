@@ -1,7 +1,7 @@
 # YOLODatasetCreator
 Makes a dataset prepped for YOLO, using a "frames" and "labels" folder.
 
-## How to use it?
+## How to prepare the data?
 You need to make a folder with all of the frames of the video/images and a folder with all of the labels of the frames.
 The file names of the images and labels need to be the same to be associated with each other, which is already done if you use the LabelImg program.
 
