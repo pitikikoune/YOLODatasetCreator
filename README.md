@@ -14,7 +14,7 @@ Once you execute the program, a terminal will show up, asking for the dataset na
 
 ## Where do i place the dataset then?
 Normally, you can put it at any folder. You'll just need to remember to enter the directory with the dataset in command prompt when you want to train the model.
-You place the yaml file in the dataset config folder, found in the yolo program directory. Since I downloaded yolo with Anaconda, mine is found at "C:\Users\*******\anaconda3\envs\main\Lib\site-packages\ultralytics\cfg\datasets", the folder is filled with yaml files.
+You place the yaml file in the dataset config folder, found in the yolo program directory. Since I downloaded yolo with Anaconda, mine is found at "C:\Users\\*******\anaconda3\envs\main\Lib\site-packages\ultralytics\cfg\datasets", the folder is filled with yaml files.
 
 ## Will there be any updates?
 If there will be any issues, yes. But I won't be very active when it comes to adding new stuff to the dataset creator.
