@@ -14,4 +14,4 @@ Once you execute the program, a terminal will show up, asking for the dataset na
 Normally, you can put it at any folder. You'll just need to remember to enter the directory with the dataset in command prompt when you want to train the model.
 
 ## Will there be any updates?
-If there are any issues, yes. But I won't be very active when it comes to improving the dataset creator.
+If there will be any issues, yes. But I won't be very active when it comes to adding new stuff to the dataset creator.
