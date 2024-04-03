@@ -9,6 +9,7 @@ There also needs to be a file with classes in the "labels" folder.
 The file names of the images and labels need to be the same to be associated with each other, which is already done if you use the LabelImg program.
 
 ## How do I use the program?
+You MUST put the exe at the same directory as the "frames" and "labels" folder.
 Once you execute the program, a terminal will show up, asking for the dataset name, folder names, training/validation ratio, then ask if you want to delete the two folders once it's done.
 
 ## Where do i place the dataset then?
