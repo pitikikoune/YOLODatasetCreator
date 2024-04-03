@@ -13,8 +13,8 @@ You MUST put the exe at the same directory as the "frames" and "labels" folder.
 Once you execute the program, a terminal will show up, asking for the dataset name, folder names, training/validation ratio, then ask if you want to delete the two folders once it's done.
 
 ## Where do i place the dataset then?
-Normally, you can put it at any folder. You'll just need to remember to enter the directory with the dataset in command prompt when you want to train the model.
-You place the yaml file in the dataset config folder, found in the yolo program directory. Since I downloaded yolo with Anaconda, mine is found at "C:\Users\\*******\anaconda3\envs\main\Lib\site-packages\ultralytics\cfg\datasets", the folder is filled with yaml files.
+Normally, you need to put it in the dataset folder found in your user folder, but that may vary.
+You place the yaml file in the dataset config folder, found in the yolo program directory. Since I downloaded yolo with Anaconda, mine is located at "C:\Users\\*******\anaconda3\envs\main\Lib\site-packages\ultralytics\cfg\datasets", the folder is filled with yaml files.
 
 ## Will there be any updates?
 If there will be any issues, yes. But I won't be very active when it comes to adding new stuff to the dataset creator.
